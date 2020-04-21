@@ -30,15 +30,15 @@ struct Config {
         "   *             \n\r"
         "  *              \n\r"
         " * * * * * * * * \n\r",
-        "UPDOWN:\n\r"
+        "COUNTERSLOPE:\n\r"
         "        *        \n\r"
-        "        *        \n\r"
-        "        *        \n\r"
-        "        *        \n\r"
-        "        *        \n\r"
-        "        *        \n\r"
-        "        *        \n\r"
-        "        *        \n\r"};
+        "         *       \n\r"
+        "          *      \n\r"
+        "           *     \n\r"
+        "            *    \n\r"
+        "             *   \n\r"
+        "              *  \n\r"
+        " * * * * * * * * \n\r"};
 };
 
 Config config;
